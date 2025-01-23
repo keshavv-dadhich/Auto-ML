@@ -2,16 +2,6 @@
 
 <h3 align="center">AutoML Alex</h3>
 
-<div align="center">
-
-[![Downloads](https://pepy.tech/badge/automl-alex)](https://pepy.tech/project/automl-alex)
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/automl-alex)
-![PyPI](https://img.shields.io/pypi/v/automl-alex)
-[![CodeFactor](https://www.codefactor.io/repository/github/alex-lekov/automl_alex/badge)](https://www.codefactor.io/repository/github/alex-lekov/automl_alex)
-[![Telegram](https://img.shields.io/badge/chat-on%20Telegram-2ba2d9.svg)](https://t.me/automlalex)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
-
-</div>
 
 ---
 
@@ -174,9 +164,4 @@ $ optuna-dashboard sqlite:///db.sqlite3
 -   [ ] Multiclass Classification
 
 -   [ ] Build pipelines
-
-
-# Contact
-
-[Telegram Group](https://t.me/automlalex)
 
