@@ -16,8 +16,6 @@
 ### Benchmark Results
 <img width=800 src="https://github.com/Alex-Lekov/AutoML-Benchmark/blob/master/img/Total_SUM.png" alt="bench">
 
-The bigger, the better   
-From [AutoML-Benchmark](https://github.com/Alex-Lekov/AutoML-Benchmark/) 
 
 ### Scheme
 <img width=800 src="https://github.com/Alex-Lekov/AutoML_Alex/blob/develop/examples/img/shema.png" alt="scheme">
