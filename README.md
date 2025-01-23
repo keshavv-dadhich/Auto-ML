@@ -106,14 +106,6 @@ It integrates many popular frameworks:
 
 -   [x] Binary Features
 
--   [ ] Text
-
--   [ ] Datetime
-
--   [ ] Timeseries
-
--   [ ] Image
-
 
 # Note
 
