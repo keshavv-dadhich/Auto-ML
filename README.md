@@ -18,7 +18,7 @@
 
 
 ### Scheme
-<img width=800 src="https://github.com/Alex-Lekov/AutoML_Alex/blob/develop/examples/img/shema.png" alt="scheme">
+<img width=800 src="https://github.com/keshavv-dadhich/Auto-ML/blob/main/examples/img/shema.png" alt="scheme">
 
 
 # Features
