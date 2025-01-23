@@ -14,7 +14,7 @@
 -   [x] Regression
 
 ### Benchmark Results
-<img width=800 src="https://github.com/Alex-Lekov/AutoML-Benchmark/blob/master/img/Total_SUM.png" alt="bench">
+<img width=800 src="https://github.com/keshavv-dadhich/Auto-ML/blob/main/examples/img/Total_SUM.png" alt="bench">
 
 
 ### Scheme
