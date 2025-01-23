@@ -13,8 +13,6 @@
 
 -   [x] Regression
 
--   [ ] Multiclass Classification (in progress...)
-
 ### Benchmark Results
 <img width=800 src="https://github.com/Alex-Lekov/AutoML-Benchmark/blob/master/img/Total_SUM.png" alt="bench">
 
