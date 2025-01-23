@@ -114,7 +114,7 @@ Library creates many new features. If you have a large dataset with a large numb
 # Realtime Dashboard
 Works with [optuna-dashboard](https://github.com/optuna/optuna-dashboard)
 
-<img width=800 src="https://github.com/Alex-Lekov/AutoML_Alex/blob/develop/examples/img/dashboard.gif" alt="Dashboard">
+<img width=800 src="https://github.com/keshavv-dadhich/Auto-ML/blob/main/examples/img/dashboard_2.gif" alt="Dashboard">
 
 Run
 ```console
