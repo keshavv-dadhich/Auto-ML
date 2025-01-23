@@ -141,13 +141,4 @@ $ optuna-dashboard sqlite:///db.sqlite3
 
 -   [x] Add opt Pruners
 
--   [ ] Docs Site
-
--   [ ] DL Encoders
-
--   [ ] Add More libs (NNs)
-
--   [ ] Multiclass Classification
-
--   [ ] Build pipelines
 
