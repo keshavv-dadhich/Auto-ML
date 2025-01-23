@@ -1,6 +1,6 @@
 
 
-<h3 align="center">AutoML Alex</h3>
+<h3 align="center">AutoML</h3>
 
 
 ---
